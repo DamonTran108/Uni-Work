@@ -1,0 +1,4878 @@
+index 0 : 1.0   index 1 : 38.24  index 2 : 20.42
+index 0 : 2.0   index 1 : 39.57  index 2 : 26.15
+index 0 : 3.0   index 1 : 40.56  index 2 : 25.32
+index 0 : 4.0   index 1 : 36.26  index 2 : 23.12
+index 0 : 5.0   index 1 : 33.48  index 2 : 10.54
+index 0 : 6.0   index 1 : 37.56  index 2 : 12.19
+index 0 : 7.0   index 1 : 38.42  index 2 : 13.11
+index 0 : 8.0   index 1 : 37.52  index 2 : 20.44
+index 0 : 9.0   index 1 : 41.23  index 2 : 9.1
+index 0 : 10.0   index 1 : 41.17  index 2 : 13.05
+index 0 : 11.0   index 1 : 36.08  index 2 : -5.21
+index 0 : 12.0   index 1 : 38.47  index 2 : 15.13
+index 0 : 13.0   index 1 : 38.15  index 2 : 15.35
+index 0 : 14.0   index 1 : 37.51  index 2 : 15.17
+index 0 : 15.0   index 1 : 35.49  index 2 : 14.32
+index 0 : 16.0   index 1 : 39.36  index 2 : 19.56
+city size is : 16
+city : 4.0
+  X :36.26  Y :23.12
+Temp elements city : 12.0
+Temp elements x : 38.47
+Temp elements y : 15.13
+index : 0
+8.290008
+city size is : 16
+city : 12.0
+  X :38.47  Y :15.13
+Temp elements city : 15.0
+Temp elements x : 35.49
+Temp elements y : 14.32
+index : 1
+11.37813
+city size is : 16
+city : 15.0
+  X :35.49  Y :14.32
+Temp elements city : 6.0
+Temp elements x : 37.56
+Temp elements y : 12.19
+index : 2
+14.348281
+city size is : 16
+city : 6.0
+  X :37.56  Y :12.19
+Temp elements city : 5.0
+Temp elements x : 33.48
+Temp elements y : 10.54
+index : 3
+18.749294
+city size is : 16
+city : 5.0
+  X :33.48  Y :10.54
+Temp elements city : 10.0
+Temp elements x : 41.17
+Temp elements y : 13.05
+index : 4
+26.838558
+city size is : 16
+city : 10.0
+  X :41.17  Y :13.05
+Temp elements city : 13.0
+Temp elements x : 38.15
+Temp elements y : 15.35
+index : 5
+30.634659
+city size is : 16
+city : 13.0
+  X :38.15  Y :15.35
+Temp elements city : 16.0
+Temp elements x : 39.36
+Temp elements y : 19.56
+index : 6
+35.01509
+city size is : 16
+city : 16.0
+  X :39.36  Y :19.56
+Temp elements city : 14.0
+Temp elements x : 37.51
+Temp elements y : 15.17
+index : 7
+39.778976
+city size is : 16
+city : 14.0
+  X :37.51  Y :15.17
+Temp elements city : 9.0
+Temp elements x : 41.23
+Temp elements y : 9.1
+index : 8
+46.898197
+city size is : 16
+city : 9.0
+  X :41.23  Y :9.1
+Temp elements city : 2.0
+Temp elements x : 39.57
+Temp elements y : 26.15
+index : 9
+64.02882
+city size is : 16
+city : 2.0
+  X :39.57  Y :26.15
+Temp elements city : 11.0
+Temp elements x : 36.08
+Temp elements y : -5.21
+index : 10
+95.58242
+city size is : 16
+city : 11.0
+  X :36.08  Y :-5.21
+Temp elements city : 1.0
+Temp elements x : 38.24
+Temp elements y : 20.42
+index : 11
+121.303276
+city size is : 16
+city : 1.0
+  X :38.24  Y :20.42
+Temp elements city : 3.0
+Temp elements x : 40.56
+Temp elements y : 25.32
+index : 12
+126.724754
+city size is : 16
+city : 3.0
+  X :40.56  Y :25.32
+Temp elements city : 8.0
+Temp elements x : 37.52
+Temp elements y : 20.44
+index : 13
+132.47418
+city size is : 16
+city : 8.0
+  X :37.52  Y :20.44
+Temp elements city : 7.0
+Temp elements x : 38.42
+Temp elements y : 13.11
+index : 14
+139.85922
+poo
+city size is : 16
+city : 4.0
+  X :36.26  Y :23.12
+Temp elements city : 3.0
+Temp elements x : 40.56
+Temp elements y : 25.32
+index : 0
+4.8301163
+city size is : 16
+city : 3.0
+  X :40.56  Y :25.32
+Temp elements city : 10.0
+Temp elements x : 41.17
+Temp elements y : 13.05
+index : 1
+17.115269
+city size is : 16
+city : 10.0
+  X :41.17  Y :13.05
+Temp elements city : 13.0
+Temp elements x : 38.15
+Temp elements y : 15.35
+index : 2
+20.91137
+city size is : 16
+city : 13.0
+  X :38.15  Y :15.35
+Temp elements city : 6.0
+Temp elements x : 37.56
+Temp elements y : 12.19
+index : 3
+24.125978
+city size is : 16
+city : 6.0
+  X :37.56  Y :12.19
+Temp elements city : 7.0
+Temp elements x : 38.42
+Temp elements y : 13.11
+index : 4
+25.385342
+city size is : 16
+city : 7.0
+  X :38.42  Y :13.11
+Temp elements city : 11.0
+Temp elements x : 36.08
+Temp elements y : -5.21
+index : 5
+43.85418
+city size is : 16
+city : 11.0
+  X :36.08  Y :-5.21
+Temp elements city : 8.0
+Temp elements x : 37.52
+Temp elements y : 20.44
+index : 6
+69.54457
+city size is : 16
+city : 8.0
+  X :37.52  Y :20.44
+Temp elements city : 1.0
+Temp elements x : 38.24
+Temp elements y : 20.42
+index : 7
+70.26485
+city size is : 16
+city : 1.0
+  X :38.24  Y :20.42
+Temp elements city : 5.0
+Temp elements x : 33.48
+Temp elements y : 10.54
+index : 8
+81.231705
+city size is : 16
+city : 5.0
+  X :33.48  Y :10.54
+Temp elements city : 15.0
+Temp elements x : 35.49
+Temp elements y : 14.32
+index : 9
+85.512886
+city size is : 16
+city : 15.0
+  X :35.49  Y :14.32
+Temp elements city : 16.0
+Temp elements x : 39.36
+Temp elements y : 19.56
+index : 10
+92.02706
+city size is : 16
+city : 16.0
+  X :39.36  Y :19.56
+Temp elements city : 2.0
+Temp elements x : 39.57
+Temp elements y : 26.15
+index : 11
+98.62041
+city size is : 16
+city : 2.0
+  X :39.57  Y :26.15
+Temp elements city : 9.0
+Temp elements x : 41.23
+Temp elements y : 9.1
+index : 12
+115.75102
+city size is : 16
+city : 9.0
+  X :41.23  Y :9.1
+Temp elements city : 14.0
+Temp elements x : 37.51
+Temp elements y : 15.17
+index : 13
+122.87024
+city size is : 16
+city : 14.0
+  X :37.51  Y :15.17
+Temp elements city : 12.0
+Temp elements x : 38.47
+Temp elements y : 15.13
+index : 14
+123.83108
+poo
+pee 10.0
+pee 41.17
+pee 13.05
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+Cities : 4.0 solution 0  123.83108
+F 0
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+Cities : 3.0 solution 0  123.83108
+F 1
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+Cities : 10.0 solution 0  123.83108
+F 2
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+Cities : 13.0 solution 0  123.83108
+F 3
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+Cities : 6.0 solution 0  123.83108
+F 4
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+Cities : 7.0 solution 0  123.83108
+F 5
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+Cities : 11.0 solution 0  123.83108
+F 6
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+Cities : 8.0 solution 0  123.83108
+F 7
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+Cities : 1.0 solution 0  123.83108
+F 8
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+Cities : 5.0 solution 0  123.83108
+F 9
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+Cities : 15.0 solution 0  123.83108
+F 10
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+Cities : 16.0 solution 0  123.83108
+F 11
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+Cities : 2.0 solution 0  123.83108
+F 12
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+Cities : 9.0 solution 0  123.83108
+F 13
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+Cities : 14.0 solution 0  123.83108
+F 14
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+Cities : 12.0 solution 0  123.83108
+F 15
+hahah [[F@6d06d69c, [F@7852e922, [F@4e25154f, [F@70dea4e, [F@5c647e05, [F@33909752, [F@55f96302, [F@3d4eac69, [F@42a57993, [F@75b84c92, [F@6bc7c054, [F@232204a1, [F@4aa298b7, [F@7d4991ad, [F@28d93b30, [F@1b6d3586]
+city size is : 16
+city : 10.0
+  X :41.17  Y :13.05
+Temp elements city : 6.0
+Temp elements x : 37.56
+Temp elements y : 12.19
+index : 0
+3.7110212
+city size is : 16
+city : 6.0
+  X :37.56  Y :12.19
+Temp elements city : 1.0
+Temp elements x : 38.24
+Temp elements y : 20.42
+index : 1
+11.969067
+city size is : 16
+city : 1.0
+  X :38.24  Y :20.42
+Temp elements city : 11.0
+Temp elements x : 36.08
+Temp elements y : -5.21
+index : 2
+37.689926
+city size is : 16
+city : 11.0
+  X :36.08  Y :-5.21
+Temp elements city : 16.0
+Temp elements x : 39.36
+Temp elements y : 19.56
+index : 3
+62.676147
+city size is : 16
+city : 16.0
+  X :39.36  Y :19.56
+Temp elements city : 13.0
+Temp elements x : 38.15
+Temp elements y : 15.35
+index : 4
+67.05658
+city size is : 16
+city : 13.0
+  X :38.15  Y :15.35
+Temp elements city : 8.0
+Temp elements x : 37.52
+Temp elements y : 20.44
+index : 5
+72.18542
+city size is : 16
+city : 8.0
+  X :37.52  Y :20.44
+Temp elements city : 14.0
+Temp elements x : 37.51
+Temp elements y : 15.17
+index : 6
+77.45543
+city size is : 16
+city : 14.0
+  X :37.51  Y :15.17
+Temp elements city : 3.0
+Temp elements x : 40.56
+Temp elements y : 25.32
+index : 7
+88.05378
+city size is : 16
+city : 3.0
+  X :40.56  Y :25.32
+Temp elements city : 7.0
+Temp elements x : 38.42
+Temp elements y : 13.11
+index : 8
+100.4499
+city size is : 16
+city : 7.0
+  X :38.42  Y :13.11
+Temp elements city : 5.0
+Temp elements x : 33.48
+Temp elements y : 10.54
+index : 9
+106.018425
+city size is : 16
+city : 5.0
+  X :33.48  Y :10.54
+Temp elements city : 12.0
+Temp elements x : 38.47
+Temp elements y : 15.13
+index : 10
+112.79841
+city size is : 16
+city : 12.0
+  X :38.47  Y :15.13
+Temp elements city : 4.0
+Temp elements x : 36.26
+Temp elements y : 23.12
+index : 11
+121.08842
+city size is : 16
+city : 4.0
+  X :36.26  Y :23.12
+Temp elements city : 15.0
+Temp elements x : 35.49
+Temp elements y : 14.32
+index : 12
+129.92204
+city size is : 16
+city : 15.0
+  X :35.49  Y :14.32
+Temp elements city : 9.0
+Temp elements x : 41.23
+Temp elements y : 9.1
+index : 13
+137.68065
+city size is : 16
+city : 9.0
+  X :41.23  Y :9.1
+Temp elements city : 2.0
+Temp elements x : 39.57
+Temp elements y : 26.15
+index : 14
+154.81126
+poo
+pee 1.0
+pee 38.24
+pee 20.42
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+Cities : 10.0 solution 1  154.81126
+F 0
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+Cities : 6.0 solution 1  154.81126
+F 1
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+Cities : 1.0 solution 1  154.81126
+F 2
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+Cities : 11.0 solution 1  154.81126
+F 3
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+Cities : 16.0 solution 1  154.81126
+F 4
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+Cities : 13.0 solution 1  154.81126
+F 5
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+Cities : 8.0 solution 1  154.81126
+F 6
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+Cities : 14.0 solution 1  154.81126
+F 7
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+Cities : 3.0 solution 1  154.81126
+F 8
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+Cities : 7.0 solution 1  154.81126
+F 9
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+Cities : 5.0 solution 1  154.81126
+F 10
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+Cities : 12.0 solution 1  154.81126
+F 11
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+Cities : 4.0 solution 1  154.81126
+F 12
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+Cities : 15.0 solution 1  154.81126
+F 13
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+Cities : 9.0 solution 1  154.81126
+F 14
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+Cities : 2.0 solution 1  154.81126
+F 15
+hahah [[F@4e25154f, [F@5c647e05, [F@42a57993, [F@55f96302, [F@232204a1, [F@70dea4e, [F@3d4eac69, [F@28d93b30, [F@7852e922, [F@33909752, [F@75b84c92, [F@1b6d3586, [F@6d06d69c, [F@6bc7c054, [F@7d4991ad, [F@4aa298b7]
+city size is : 16
+city : 15.0
+  X :35.49  Y :14.32
+Temp elements city : 8.0
+Temp elements x : 37.52
+Temp elements y : 20.44
+index : 0
+6.4478917
+city size is : 16
+city : 8.0
+  X :37.52  Y :20.44
+Temp elements city : 9.0
+Temp elements x : 41.23
+Temp elements y : 9.1
+index : 1
+18.37935
+city size is : 16
+city : 9.0
+  X :41.23  Y :9.1
+Temp elements city : 12.0
+Temp elements x : 38.47
+Temp elements y : 15.13
+index : 2
+25.010979
+city size is : 16
+city : 12.0
+  X :38.47  Y :15.13
+Temp elements city : 11.0
+Temp elements x : 36.08
+Temp elements y : -5.21
+index : 3
+45.490913
+city size is : 16
+city : 11.0
+  X :36.08  Y :-5.21
+Temp elements city : 5.0
+Temp elements x : 33.48
+Temp elements y : 10.54
+index : 4
+61.454075
+city size is : 16
+city : 5.0
+  X :33.48  Y :10.54
+Temp elements city : 4.0
+Temp elements x : 36.26
+Temp elements y : 23.12
+index : 5
+74.337585
+city size is : 16
+city : 4.0
+  X :36.26  Y :23.12
+Temp elements city : 2.0
+Temp elements x : 39.57
+Temp elements y : 26.15
+index : 6
+78.82501
+city size is : 16
+city : 2.0
+  X :39.57  Y :26.15
+Temp elements city : 10.0
+Temp elements x : 41.17
+Temp elements y : 13.05
+index : 7
+92.02236
+city size is : 16
+city : 10.0
+  X :41.17  Y :13.05
+Temp elements city : 16.0
+Temp elements x : 39.36
+Temp elements y : 19.56
+index : 8
+98.7793
+city size is : 16
+city : 16.0
+  X :39.36  Y :19.56
+Temp elements city : 6.0
+Temp elements x : 37.56
+Temp elements y : 12.19
+index : 9
+106.36592
+city size is : 16
+city : 6.0
+  X :37.56  Y :12.19
+Temp elements city : 3.0
+Temp elements x : 40.56
+Temp elements y : 25.32
+index : 10
+119.83429
+city size is : 16
+city : 3.0
+  X :40.56  Y :25.32
+Temp elements city : 13.0
+Temp elements x : 38.15
+Temp elements y : 15.35
+index : 11
+130.09143
+city size is : 16
+city : 13.0
+  X :38.15  Y :15.35
+Temp elements city : 7.0
+Temp elements x : 38.42
+Temp elements y : 13.11
+index : 12
+132.34764
+city size is : 16
+city : 7.0
+  X :38.42  Y :13.11
+Temp elements city : 1.0
+Temp elements x : 38.24
+Temp elements y : 20.42
+index : 13
+139.65985
+city size is : 16
+city : 1.0
+  X :38.24  Y :20.42
+Temp elements city : 14.0
+Temp elements x : 37.51
+Temp elements y : 15.17
+index : 14
+144.96036
+poo
+pee 9.0
+pee 41.23
+pee 9.1
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+Cities : 15.0 solution 2  144.96036
+F 0
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+Cities : 8.0 solution 2  144.96036
+F 1
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+Cities : 9.0 solution 2  144.96036
+F 2
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+Cities : 12.0 solution 2  144.96036
+F 3
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+Cities : 11.0 solution 2  144.96036
+F 4
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+Cities : 5.0 solution 2  144.96036
+F 5
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+Cities : 4.0 solution 2  144.96036
+F 6
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+Cities : 2.0 solution 2  144.96036
+F 7
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+Cities : 10.0 solution 2  144.96036
+F 8
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+Cities : 16.0 solution 2  144.96036
+F 9
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+Cities : 6.0 solution 2  144.96036
+F 10
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+Cities : 3.0 solution 2  144.96036
+F 11
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+Cities : 13.0 solution 2  144.96036
+F 12
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+Cities : 7.0 solution 2  144.96036
+F 13
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+Cities : 1.0 solution 2  144.96036
+F 14
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+Cities : 14.0 solution 2  144.96036
+F 15
+hahah [[F@6bc7c054, [F@3d4eac69, [F@7d4991ad, [F@1b6d3586, [F@55f96302, [F@75b84c92, [F@6d06d69c, [F@4aa298b7, [F@4e25154f, [F@232204a1, [F@5c647e05, [F@7852e922, [F@70dea4e, [F@33909752, [F@42a57993, [F@28d93b30]
+city size is : 16
+city : 13.0
+  X :38.15  Y :15.35
+Temp elements city : 5.0
+Temp elements x : 33.48
+Temp elements y : 10.54
+index : 0
+6.704105
+city size is : 16
+city : 5.0
+  X :33.48  Y :10.54
+Temp elements city : 14.0
+Temp elements x : 37.51
+Temp elements y : 15.17
+index : 1
+12.842329
+city size is : 16
+city : 14.0
+  X :37.51  Y :15.17
+Temp elements city : 4.0
+Temp elements x : 36.26
+Temp elements y : 23.12
+index : 2
+20.890001
+city size is : 16
+city : 4.0
+  X :36.26  Y :23.12
+Temp elements city : 1.0
+Temp elements x : 38.24
+Temp elements y : 20.42
+index : 3
+24.238197
+city size is : 16
+city : 1.0
+  X :38.24  Y :20.42
+Temp elements city : 9.0
+Temp elements x : 41.23
+Temp elements y : 9.1
+index : 4
+35.94642
+city size is : 16
+city : 9.0
+  X :41.23  Y :9.1
+Temp elements city : 15.0
+Temp elements x : 35.49
+Temp elements y : 14.32
+index : 5
+43.705025
+city size is : 16
+city : 15.0
+  X :35.49  Y :14.32
+Temp elements city : 16.0
+Temp elements x : 39.36
+Temp elements y : 19.56
+index : 6
+50.2192
+city size is : 16
+city : 16.0
+  X :39.36  Y :19.56
+Temp elements city : 8.0
+Temp elements x : 37.52
+Temp elements y : 20.44
+index : 7
+52.25881
+city size is : 16
+city : 8.0
+  X :37.52  Y :20.44
+Temp elements city : 7.0
+Temp elements x : 38.42
+Temp elements y : 13.11
+index : 8
+59.643856
+city size is : 16
+city : 7.0
+  X :38.42  Y :13.11
+Temp elements city : 11.0
+Temp elements x : 36.08
+Temp elements y : -5.21
+index : 9
+78.11269
+city size is : 16
+city : 11.0
+  X :36.08  Y :-5.21
+Temp elements city : 2.0
+Temp elements x : 39.57
+Temp elements y : 26.15
+index : 10
+109.6663
+city size is : 16
+city : 2.0
+  X :39.57  Y :26.15
+Temp elements city : 6.0
+Temp elements x : 37.56
+Temp elements y : 12.19
+index : 11
+123.770256
+city size is : 16
+city : 6.0
+  X :37.56  Y :12.19
+Temp elements city : 10.0
+Temp elements x : 41.17
+Temp elements y : 13.05
+index : 12
+127.48128
+city size is : 16
+city : 10.0
+  X :41.17  Y :13.05
+Temp elements city : 12.0
+Temp elements x : 38.47
+Temp elements y : 15.13
+index : 13
+130.88956
+city size is : 16
+city : 12.0
+  X :38.47  Y :15.13
+Temp elements city : 3.0
+Temp elements x : 40.56
+Temp elements y : 25.32
+index : 14
+141.29169
+poo
+pee 14.0
+pee 37.51
+pee 15.17
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+Cities : 13.0 solution 3  141.29169
+F 0
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+Cities : 5.0 solution 3  141.29169
+F 1
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+Cities : 14.0 solution 3  141.29169
+F 2
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+Cities : 4.0 solution 3  141.29169
+F 3
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+Cities : 1.0 solution 3  141.29169
+F 4
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+Cities : 9.0 solution 3  141.29169
+F 5
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+Cities : 15.0 solution 3  141.29169
+F 6
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+Cities : 16.0 solution 3  141.29169
+F 7
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+Cities : 8.0 solution 3  141.29169
+F 8
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+Cities : 7.0 solution 3  141.29169
+F 9
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+Cities : 11.0 solution 3  141.29169
+F 10
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+Cities : 2.0 solution 3  141.29169
+F 11
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+Cities : 6.0 solution 3  141.29169
+F 12
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+Cities : 10.0 solution 3  141.29169
+F 13
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+Cities : 12.0 solution 3  141.29169
+F 14
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+Cities : 3.0 solution 3  141.29169
+F 15
+hahah [[F@70dea4e, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@42a57993, [F@7d4991ad, [F@6bc7c054, [F@232204a1, [F@3d4eac69, [F@33909752, [F@55f96302, [F@4aa298b7, [F@5c647e05, [F@4e25154f, [F@1b6d3586, [F@7852e922]
+city size is : 16
+city : 13.0
+  X :38.15  Y :15.35
+Temp elements city : 14.0
+Temp elements x : 37.51
+Temp elements y : 15.17
+index : 0
+0.66483396
+city size is : 16
+city : 14.0
+  X :37.51  Y :15.17
+Temp elements city : 16.0
+Temp elements x : 39.36
+Temp elements y : 19.56
+index : 1
+5.428719
+city size is : 16
+city : 16.0
+  X :39.36  Y :19.56
+Temp elements city : 4.0
+Temp elements x : 36.26
+Temp elements y : 23.12
+index : 2
+10.149272
+city size is : 16
+city : 4.0
+  X :36.26  Y :23.12
+Temp elements city : 1.0
+Temp elements x : 38.24
+Temp elements y : 20.42
+index : 3
+13.497468
+city size is : 16
+city : 1.0
+  X :38.24  Y :20.42
+Temp elements city : 2.0
+Temp elements x : 39.57
+Temp elements y : 26.15
+index : 4
+19.379797
+city size is : 16
+city : 2.0
+  X :39.57  Y :26.15
+Temp elements city : 10.0
+Temp elements x : 41.17
+Temp elements y : 13.05
+index : 5
+32.577145
+city size is : 16
+city : 10.0
+  X :41.17  Y :13.05
+Temp elements city : 9.0
+Temp elements x : 41.23
+Temp elements y : 9.1
+index : 6
+36.5276
+city size is : 16
+city : 9.0
+  X :41.23  Y :9.1
+Temp elements city : 3.0
+Temp elements x : 40.56
+Temp elements y : 25.32
+index : 7
+52.76143
+city size is : 16
+city : 3.0
+  X :40.56  Y :25.32
+Temp elements city : 15.0
+Temp elements x : 35.49
+Temp elements y : 14.32
+index : 8
+64.87361
+city size is : 16
+city : 15.0
+  X :35.49  Y :14.32
+Temp elements city : 11.0
+Temp elements x : 36.08
+Temp elements y : -5.21
+index : 9
+84.41252
+city size is : 16
+city : 11.0
+  X :36.08  Y :-5.21
+Temp elements city : 6.0
+Temp elements x : 37.56
+Temp elements y : 12.19
+index : 10
+101.87535
+city size is : 16
+city : 6.0
+  X :37.56  Y :12.19
+Temp elements city : 7.0
+Temp elements x : 38.42
+Temp elements y : 13.11
+index : 11
+103.13471
+city size is : 16
+city : 7.0
+  X :38.42  Y :13.11
+Temp elements city : 5.0
+Temp elements x : 33.48
+Temp elements y : 10.54
+index : 12
+108.70324
+city size is : 16
+city : 5.0
+  X :33.48  Y :10.54
+Temp elements city : 8.0
+Temp elements x : 37.52
+Temp elements y : 20.44
+index : 13
+119.395836
+city size is : 16
+city : 8.0
+  X :37.52  Y :20.44
+Temp elements city : 12.0
+Temp elements x : 38.47
+Temp elements y : 15.13
+index : 14
+124.790146
+poo
+pee 16.0
+pee 39.36
+pee 19.56
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+Cities : 13.0 solution 4  124.790146
+F 0
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+Cities : 14.0 solution 4  124.790146
+F 1
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+Cities : 16.0 solution 4  124.790146
+F 2
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+Cities : 4.0 solution 4  124.790146
+F 3
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+Cities : 1.0 solution 4  124.790146
+F 4
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+Cities : 2.0 solution 4  124.790146
+F 5
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+Cities : 10.0 solution 4  124.790146
+F 6
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+Cities : 9.0 solution 4  124.790146
+F 7
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+Cities : 3.0 solution 4  124.790146
+F 8
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+Cities : 15.0 solution 4  124.790146
+F 9
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+Cities : 11.0 solution 4  124.790146
+F 10
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+Cities : 6.0 solution 4  124.790146
+F 11
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+Cities : 7.0 solution 4  124.790146
+F 12
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+Cities : 5.0 solution 4  124.790146
+F 13
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+Cities : 8.0 solution 4  124.790146
+F 14
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+Cities : 12.0 solution 4  124.790146
+F 15
+hahah [[F@70dea4e, [F@28d93b30, [F@232204a1, [F@6d06d69c, [F@42a57993, [F@4aa298b7, [F@4e25154f, [F@7d4991ad, [F@7852e922, [F@6bc7c054, [F@55f96302, [F@5c647e05, [F@33909752, [F@75b84c92, [F@3d4eac69, [F@1b6d3586]
+city size is : 16
+city : 11.0
+  X :36.08  Y :-5.21
+Temp elements city : 13.0
+Temp elements x : 38.15
+Temp elements y : 15.35
+index : 0
+20.663944
+city size is : 16
+city : 13.0
+  X :38.15  Y :15.35
+Temp elements city : 1.0
+Temp elements x : 38.24
+Temp elements y : 20.42
+index : 1
+25.734743
+city size is : 16
+city : 1.0
+  X :38.24  Y :20.42
+Temp elements city : 8.0
+Temp elements x : 37.52
+Temp elements y : 20.44
+index : 2
+26.455023
+city size is : 16
+city : 8.0
+  X :37.52  Y :20.44
+Temp elements city : 15.0
+Temp elements x : 35.49
+Temp elements y : 14.32
+index : 3
+32.902916
+city size is : 16
+city : 15.0
+  X :35.49  Y :14.32
+Temp elements city : 12.0
+Temp elements x : 38.47
+Temp elements y : 15.13
+index : 4
+35.99104
+city size is : 16
+city : 12.0
+  X :38.47  Y :15.13
+Temp elements city : 5.0
+Temp elements x : 33.48
+Temp elements y : 10.54
+index : 5
+42.771027
+city size is : 16
+city : 5.0
+  X :33.48  Y :10.54
+Temp elements city : 14.0
+Temp elements x : 37.51
+Temp elements y : 15.17
+index : 6
+48.909252
+city size is : 16
+city : 14.0
+  X :37.51  Y :15.17
+Temp elements city : 4.0
+Temp elements x : 36.26
+Temp elements y : 23.12
+index : 7
+56.956924
+city size is : 16
+city : 4.0
+  X :36.26  Y :23.12
+Temp elements city : 10.0
+Temp elements x : 41.17
+Temp elements y : 13.05
+index : 8
+68.16019
+city size is : 16
+city : 10.0
+  X :41.17  Y :13.05
+Temp elements city : 7.0
+Temp elements x : 38.42
+Temp elements y : 13.11
+index : 9
+70.91084
+city size is : 16
+city : 7.0
+  X :38.42  Y :13.11
+Temp elements city : 6.0
+Temp elements x : 37.56
+Temp elements y : 12.19
+index : 10
+72.170204
+city size is : 16
+city : 6.0
+  X :37.56  Y :12.19
+Temp elements city : 16.0
+Temp elements x : 39.36
+Temp elements y : 19.56
+index : 11
+79.75683
+city size is : 16
+city : 16.0
+  X :39.36  Y :19.56
+Temp elements city : 2.0
+Temp elements x : 39.57
+Temp elements y : 26.15
+index : 12
+86.350174
+city size is : 16
+city : 2.0
+  X :39.57  Y :26.15
+Temp elements city : 3.0
+Temp elements x : 40.56
+Temp elements y : 25.32
+index : 13
+87.642075
+city size is : 16
+city : 3.0
+  X :40.56  Y :25.32
+Temp elements city : 9.0
+Temp elements x : 41.23
+Temp elements y : 9.1
+index : 14
+103.87591
+poo
+pee 1.0
+pee 38.24
+pee 20.42
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+Cities : 11.0 solution 5  103.87591
+F 0
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+Cities : 13.0 solution 5  103.87591
+F 1
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+Cities : 1.0 solution 5  103.87591
+F 2
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+Cities : 8.0 solution 5  103.87591
+F 3
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+Cities : 15.0 solution 5  103.87591
+F 4
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+Cities : 12.0 solution 5  103.87591
+F 5
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+Cities : 5.0 solution 5  103.87591
+F 6
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+Cities : 14.0 solution 5  103.87591
+F 7
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+Cities : 4.0 solution 5  103.87591
+F 8
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+Cities : 10.0 solution 5  103.87591
+F 9
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+Cities : 7.0 solution 5  103.87591
+F 10
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+Cities : 6.0 solution 5  103.87591
+F 11
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+Cities : 16.0 solution 5  103.87591
+F 12
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+Cities : 2.0 solution 5  103.87591
+F 13
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+Cities : 3.0 solution 5  103.87591
+F 14
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+Cities : 9.0 solution 5  103.87591
+F 15
+hahah [[F@55f96302, [F@70dea4e, [F@42a57993, [F@3d4eac69, [F@6bc7c054, [F@1b6d3586, [F@75b84c92, [F@28d93b30, [F@6d06d69c, [F@4e25154f, [F@33909752, [F@5c647e05, [F@232204a1, [F@4aa298b7, [F@7852e922, [F@7d4991ad]
+Best solution is 103.87591
+Clone version : 0
+clonal Pool 4.0
+clonal Pool 3.0
+clonal Pool 10.0
+clonal Pool 13.0
+clonal Pool 6.0
+clonal Pool 7.0
+clonal Pool 11.0
+clonal Pool 8.0
+clonal Pool 1.0
+clonal Pool 5.0
+clonal Pool 15.0
+clonal Pool 16.0
+clonal Pool 2.0
+clonal Pool 9.0
+clonal Pool 14.0
+clonal Pool 12.0
+Clone version : 1
+clonal Pool 10.0
+clonal Pool 6.0
+clonal Pool 1.0
+clonal Pool 11.0
+clonal Pool 16.0
+clonal Pool 13.0
+clonal Pool 8.0
+clonal Pool 14.0
+clonal Pool 3.0
+clonal Pool 7.0
+clonal Pool 5.0
+clonal Pool 12.0
+clonal Pool 4.0
+clonal Pool 15.0
+clonal Pool 9.0
+clonal Pool 2.0
+Clone version : 2
+clonal Pool 15.0
+clonal Pool 8.0
+clonal Pool 9.0
+clonal Pool 12.0
+clonal Pool 11.0
+clonal Pool 5.0
+clonal Pool 4.0
+clonal Pool 2.0
+clonal Pool 10.0
+clonal Pool 16.0
+clonal Pool 6.0
+clonal Pool 3.0
+clonal Pool 13.0
+clonal Pool 7.0
+clonal Pool 1.0
+clonal Pool 14.0
+Clone version : 3
+clonal Pool 13.0
+clonal Pool 5.0
+clonal Pool 14.0
+clonal Pool 4.0
+clonal Pool 1.0
+clonal Pool 9.0
+clonal Pool 15.0
+clonal Pool 16.0
+clonal Pool 8.0
+clonal Pool 7.0
+clonal Pool 11.0
+clonal Pool 2.0
+clonal Pool 6.0
+clonal Pool 10.0
+clonal Pool 12.0
+clonal Pool 3.0
+Clone version : 4
+clonal Pool 13.0
+clonal Pool 14.0
+clonal Pool 16.0
+clonal Pool 4.0
+clonal Pool 1.0
+clonal Pool 2.0
+clonal Pool 10.0
+clonal Pool 9.0
+clonal Pool 3.0
+clonal Pool 15.0
+clonal Pool 11.0
+clonal Pool 6.0
+clonal Pool 7.0
+clonal Pool 5.0
+clonal Pool 8.0
+clonal Pool 12.0
+Clone version : 5
+clonal Pool 11.0
+clonal Pool 13.0
+clonal Pool 1.0
+clonal Pool 8.0
+clonal Pool 15.0
+clonal Pool 12.0
+clonal Pool 5.0
+clonal Pool 14.0
+clonal Pool 4.0
+clonal Pool 10.0
+clonal Pool 7.0
+clonal Pool 6.0
+clonal Pool 16.0
+clonal Pool 2.0
+clonal Pool 3.0
+clonal Pool 9.0
+city size is : 16
+city : 4.0
+  X :36.26  Y :23.12
+Temp elements city : 9.0
+Temp elements x : 41.23
+Temp elements y : 9.1
+index : 0
+14.874855
+city size is : 16
+city : 9.0
+  X :41.23  Y :9.1
+Temp elements city : 6.0
+Temp elements x : 37.56
+Temp elements y : 12.19
+index : 1
+19.672457
+city size is : 16
+city : 6.0
+  X :37.56  Y :12.19
+Temp elements city : 5.0
+Temp elements x : 33.48
+Temp elements y : 10.54
+index : 2
+24.07347
+city size is : 16
+city : 5.0
+  X :33.48  Y :10.54
+Temp elements city : 12.0
+Temp elements x : 38.47
+Temp elements y : 15.13
+index : 3
+30.853456
+city size is : 16
+city : 12.0
+  X :38.47  Y :15.13
+Temp elements city : 13.0
+Temp elements x : 38.15
+Temp elements y : 15.35
+index : 4
+31.241787
+city size is : 16
+city : 13.0
+  X :38.15  Y :15.35
+Temp elements city : 11.0
+Temp elements x : 36.08
+Temp elements y : -5.21
+index : 5
+51.90573
+city size is : 16
+city : 11.0
+  X :36.08  Y :-5.21
+Temp elements city : 1.0
+Temp elements x : 38.24
+Temp elements y : 20.42
+index : 6
+77.62659
+city size is : 16
+city : 1.0
+  X :38.24  Y :20.42
+Temp elements city : 14.0
+Temp elements x : 37.51
+Temp elements y : 15.17
+index : 7
+82.92709
+city size is : 16
+city : 14.0
+  X :37.51  Y :15.17
+Temp elements city : 10.0
+Temp elements x : 41.17
+Temp elements y : 13.05
+index : 8
+87.15675
+city size is : 16
+city : 10.0
+  X :41.17  Y :13.05
+Temp elements city : 8.0
+Temp elements x : 37.52
+Temp elements y : 20.44
+index : 9
+95.398994
+city size is : 16
+city : 8.0
+  X :37.52  Y :20.44
+Temp elements city : 7.0
+Temp elements x : 38.42
+Temp elements y : 13.11
+index : 10
+102.78404
+city size is : 16
+city : 7.0
+  X :38.42  Y :13.11
+Temp elements city : 2.0
+Temp elements x : 39.57
+Temp elements y : 26.15
+index : 11
+115.87466
+city size is : 16
+city : 2.0
+  X :39.57  Y :26.15
+Temp elements city : 3.0
+Temp elements x : 40.56
+Temp elements y : 25.32
+index : 12
+117.16656
+city size is : 16
+city : 3.0
+  X :40.56  Y :25.32
+Temp elements city : 15.0
+Temp elements x : 35.49
+Temp elements y : 14.32
+index : 13
+129.27873
+city size is : 16
+city : 15.0
+  X :35.49  Y :14.32
+Temp elements city : 16.0
+Temp elements x : 39.36
+Temp elements y : 19.56
+index : 14
+135.79291
+poo
+city size is : 16
+city : 16.0
+  X :39.36  Y :19.56
+Temp elements city : 5.0
+Temp elements x : 33.48
+Temp elements y : 10.54
+index : 0
+10.7673025
+city size is : 16
+city : 5.0
+  X :33.48  Y :10.54
+Temp elements city : 2.0
+Temp elements x : 39.57
+Temp elements y : 26.15
+index : 1
+27.523203
+city size is : 16
+city : 2.0
+  X :39.57  Y :26.15
+Temp elements city : 6.0
+Temp elements x : 37.56
+Temp elements y : 12.19
+index : 2
+41.627163
+city size is : 16
+city : 6.0
+  X :37.56  Y :12.19
+Temp elements city : 10.0
+Temp elements x : 41.17
+Temp elements y : 13.05
+index : 3
+45.338184
+city size is : 16
+city : 10.0
+  X :41.17  Y :13.05
+Temp elements city : 3.0
+Temp elements x : 40.56
+Temp elements y : 25.32
+index : 4
+57.623337
+city size is : 16
+city : 3.0
+  X :40.56  Y :25.32
+Temp elements city : 8.0
+Temp elements x : 37.52
+Temp elements y : 20.44
+index : 5
+63.372772
+city size is : 16
+city : 8.0
+  X :37.52  Y :20.44
+Temp elements city : 12.0
+Temp elements x : 38.47
+Temp elements y : 15.13
+index : 6
+68.76708
+city size is : 16
+city : 12.0
+  X :38.47  Y :15.13
+Temp elements city : 13.0
+Temp elements x : 38.15
+Temp elements y : 15.35
+index : 7
+69.15541
+city size is : 16
+city : 13.0
+  X :38.15  Y :15.35
+Temp elements city : 14.0
+Temp elements x : 37.51
+Temp elements y : 15.17
+index : 8
+69.820244
+city size is : 16
+city : 14.0
+  X :37.51  Y :15.17
+Temp elements city : 15.0
+Temp elements x : 35.49
+Temp elements y : 14.32
+index : 9
+72.011795
+city size is : 16
+city : 15.0
+  X :35.49  Y :14.32
+Temp elements city : 1.0
+Temp elements x : 38.24
+Temp elements y : 20.42
+index : 10
+78.70302
+city size is : 16
+city : 1.0
+  X :38.24  Y :20.42
+Temp elements city : 4.0
+Temp elements x : 36.26
+Temp elements y : 23.12
+index : 11
+82.051216
+city size is : 16
+city : 4.0
+  X :36.26  Y :23.12
+Temp elements city : 11.0
+Temp elements x : 36.08
+Temp elements y : -5.21
+index : 12
+110.38179
+city size is : 16
+city : 11.0
+  X :36.08  Y :-5.21
+Temp elements city : 9.0
+Temp elements x : 41.23
+Temp elements y : 9.1
+index : 13
+125.590294
+city size is : 16
+city : 9.0
+  X :41.23  Y :9.1
+Temp elements city : 7.0
+Temp elements x : 38.42
+Temp elements y : 13.11
+index : 14
+130.48685
+poo
+city size is : 16
+city : 13.0
+  X :38.15  Y :15.35
+Temp elements city : 3.0
+Temp elements x : 40.56
+Temp elements y : 25.32
+index : 0
+10.257143
+city size is : 16
+city : 3.0
+  X :40.56  Y :25.32
+Temp elements city : 11.0
+Temp elements x : 36.08
+Temp elements y : -5.21
+index : 1
+41.11409
+city size is : 16
+city : 11.0
+  X :36.08  Y :-5.21
+Temp elements city : 5.0
+Temp elements x : 33.48
+Temp elements y : 10.54
+index : 2
+57.07725
+city size is : 16
+city : 5.0
+  X :33.48  Y :10.54
+Temp elements city : 6.0
+Temp elements x : 37.56
+Temp elements y : 12.19
+index : 3
+61.478264
+city size is : 16
+city : 6.0
+  X :37.56  Y :12.19
+Temp elements city : 9.0
+Temp elements x : 41.23
+Temp elements y : 9.1
+index : 4
+66.27586
+city size is : 16
+city : 9.0
+  X :41.23  Y :9.1
+Temp elements city : 8.0
+Temp elements x : 37.52
+Temp elements y : 20.44
+index : 5
+78.20732
+city size is : 16
+city : 8.0
+  X :37.52  Y :20.44
+Temp elements city : 14.0
+Temp elements x : 37.51
+Temp elements y : 15.17
+index : 6
+83.47733
+city size is : 16
+city : 14.0
+  X :37.51  Y :15.17
+Temp elements city : 15.0
+Temp elements x : 35.49
+Temp elements y : 14.32
+index : 7
+85.668884
+city size is : 16
+city : 15.0
+  X :35.49  Y :14.32
+Temp elements city : 10.0
+Temp elements x : 41.17
+Temp elements y : 13.05
+index : 8
+91.48913
+city size is : 16
+city : 10.0
+  X :41.17  Y :13.05
+Temp elements city : 4.0
+Temp elements x : 36.26
+Temp elements y : 23.12
+index : 9
+102.69239
+city size is : 16
+city : 4.0
+  X :36.26  Y :23.12
+Temp elements city : 7.0
+Temp elements x : 38.42
+Temp elements y : 13.11
+index : 10
+112.932785
+city size is : 16
+city : 7.0
+  X :38.42  Y :13.11
+Temp elements city : 2.0
+Temp elements x : 39.57
+Temp elements y : 26.15
+index : 11
+126.0234
+city size is : 16
+city : 2.0
+  X :39.57  Y :26.15
+Temp elements city : 1.0
+Temp elements x : 38.24
+Temp elements y : 20.42
+index : 12
+131.90573
+city size is : 16
+city : 1.0
+  X :38.24  Y :20.42
+Temp elements city : 12.0
+Temp elements x : 38.47
+Temp elements y : 15.13
+index : 13
+137.20073
+city size is : 16
+city : 12.0
+  X :38.47  Y :15.13
+Temp elements city : 16.0
+Temp elements x : 39.36
+Temp elements y : 19.56
+index : 14
+141.71925
+poo
+city size is : 16
+city : 6.0
+  X :37.56  Y :12.19
+Temp elements city : 4.0
+Temp elements x : 36.26
+Temp elements y : 23.12
+index : 0
+11.00704
+city size is : 16
+city : 4.0
+  X :36.26  Y :23.12
+Temp elements city : 7.0
+Temp elements x : 38.42
+Temp elements y : 13.11
+index : 1
+21.247437
+city size is : 16
+city : 7.0
+  X :38.42  Y :13.11
+Temp elements city : 14.0
+Temp elements x : 37.51
+Temp elements y : 15.17
+index : 2
+23.499481
+city size is : 16
+city : 14.0
+  X :37.51  Y :15.17
+Temp elements city : 1.0
+Temp elements x : 38.24
+Temp elements y : 20.42
+index : 3
+28.799992
+city size is : 16
+city : 1.0
+  X :38.24  Y :20.42
+Temp elements city : 2.0
+Temp elements x : 39.57
+Temp elements y : 26.15
+index : 4
+34.68232
+city size is : 16
+city : 2.0
+  X :39.57  Y :26.15
+Temp elements city : 9.0
+Temp elements x : 41.23
+Temp elements y : 9.1
+index : 5
+51.81294
+city size is : 16
+city : 9.0
+  X :41.23  Y :9.1
+Temp elements city : 15.0
+Temp elements x : 35.49
+Temp elements y : 14.32
+index : 6
+59.571545
+city size is : 16
+city : 15.0
+  X :35.49  Y :14.32
+Temp elements city : 12.0
+Temp elements x : 38.47
+Temp elements y : 15.13
+index : 7
+62.659668
+city size is : 16
+city : 12.0
+  X :38.47  Y :15.13
+Temp elements city : 16.0
+Temp elements x : 39.36
+Temp elements y : 19.56
+index : 8
+67.178185
+city size is : 16
+city : 16.0
+  X :39.36  Y :19.56
+Temp elements city : 8.0
+Temp elements x : 37.52
+Temp elements y : 20.44
+index : 9
+69.2178
+city size is : 16
+city : 8.0
+  X :37.52  Y :20.44
+Temp elements city : 10.0
+Temp elements x : 41.17
+Temp elements y : 13.05
+index : 10
+77.46004
+city size is : 16
+city : 10.0
+  X :41.17  Y :13.05
+Temp elements city : 13.0
+Temp elements x : 38.15
+Temp elements y : 15.35
+index : 11
+81.25614
+city size is : 16
+city : 13.0
+  X :38.15  Y :15.35
+Temp elements city : 3.0
+Temp elements x : 40.56
+Temp elements y : 25.32
+index : 12
+91.51328
+city size is : 16
+city : 3.0
+  X :40.56  Y :25.32
+Temp elements city : 5.0
+Temp elements x : 33.48
+Temp elements y : 10.54
+index : 13
+107.901535
+city size is : 16
+city : 5.0
+  X :33.48  Y :10.54
+Temp elements city : 11.0
+Temp elements x : 36.08
+Temp elements y : -5.21
+index : 14
+123.86469
+poo
+city size is : 16
+city : 3.0
+  X :40.56  Y :25.32
+Temp elements city : 1.0
+Temp elements x : 38.24
+Temp elements y : 20.42
+index : 0
+5.4214754
+city size is : 16
+city : 1.0
+  X :38.24  Y :20.42
+Temp elements city : 6.0
+Temp elements x : 37.56
+Temp elements y : 12.19
+index : 1
+13.679521
+city size is : 16
+city : 6.0
+  X :37.56  Y :12.19
+Temp elements city : 10.0
+Temp elements x : 41.17
+Temp elements y : 13.05
+index : 2
+17.390541
+city size is : 16
+city : 10.0
+  X :41.17  Y :13.05
+Temp elements city : 5.0
+Temp elements x : 33.48
+Temp elements y : 10.54
+index : 3
+25.479805
+city size is : 16
+city : 5.0
+  X :33.48  Y :10.54
+Temp elements city : 9.0
+Temp elements x : 41.23
+Temp elements y : 9.1
+index : 4
+33.36245
+city size is : 16
+city : 9.0
+  X :41.23  Y :9.1
+Temp elements city : 2.0
+Temp elements x : 39.57
+Temp elements y : 26.15
+index : 5
+50.49307
+city size is : 16
+city : 2.0
+  X :39.57  Y :26.15
+Temp elements city : 16.0
+Temp elements x : 39.36
+Temp elements y : 19.56
+index : 6
+57.086414
+city size is : 16
+city : 16.0
+  X :39.36  Y :19.56
+Temp elements city : 4.0
+Temp elements x : 36.26
+Temp elements y : 23.12
+index : 7
+61.80697
+city size is : 16
+city : 4.0
+  X :36.26  Y :23.12
+Temp elements city : 13.0
+Temp elements x : 38.15
+Temp elements y : 15.35
+index : 8
+69.80353
+city size is : 16
+city : 13.0
+  X :38.15  Y :15.35
+Temp elements city : 12.0
+Temp elements x : 38.47
+Temp elements y : 15.13
+index : 9
+70.19186
+city size is : 16
+city : 12.0
+  X :38.47  Y :15.13
+Temp elements city : 11.0
+Temp elements x : 36.08
+Temp elements y : -5.21
+index : 10
+90.67179
+city size is : 16
+city : 11.0
+  X :36.08  Y :-5.21
+Temp elements city : 14.0
+Temp elements x : 37.51
+Temp elements y : 15.17
+index : 11
+111.1019
+city size is : 16
+city : 14.0
+  X :37.51  Y :15.17
+Temp elements city : 15.0
+Temp elements x : 35.49
+Temp elements y : 14.32
+index : 12
+113.29345
+city size is : 16
+city : 15.0
+  X :35.49  Y :14.32
+Temp elements city : 8.0
+Temp elements x : 37.52
+Temp elements y : 20.44
+index : 13
+119.74134
+city size is : 16
+city : 8.0
+  X :37.52  Y :20.44
+Temp elements city : 7.0
+Temp elements x : 38.42
+Temp elements y : 13.11
+index : 14
+127.12639
+poo
+city size is : 16
+city : 15.0
+  X :35.49  Y :14.32
+Temp elements city : 8.0
+Temp elements x : 37.52
+Temp elements y : 20.44
+index : 0
+6.4478917
+city size is : 16
+city : 8.0
+  X :37.52  Y :20.44
+Temp elements city : 13.0
+Temp elements x : 38.15
+Temp elements y : 15.35
+index : 1
+11.576732
+city size is : 16
+city : 13.0
+  X :38.15  Y :15.35
+Temp elements city : 7.0
+Temp elements x : 38.42
+Temp elements y : 13.11
+index : 2
+13.832946
+city size is : 16
+city : 7.0
+  X :38.42  Y :13.11
+Temp elements city : 11.0
+Temp elements x : 36.08
+Temp elements y : -5.21
+index : 3
+32.301785
+city size is : 16
+city : 11.0
+  X :36.08  Y :-5.21
+Temp elements city : 6.0
+Temp elements x : 37.56
+Temp elements y : 12.19
+index : 4
+49.764614
+city size is : 16
+city : 6.0
+  X :37.56  Y :12.19
+Temp elements city : 1.0
+Temp elements x : 38.24
+Temp elements y : 20.42
+index : 5
+58.02266
+city size is : 16
+city : 1.0
+  X :38.24  Y :20.42
+Temp elements city : 9.0
+Temp elements x : 41.23
+Temp elements y : 9.1
+index : 6
+69.73088
+city size is : 16
+city : 9.0
+  X :41.23  Y :9.1
+Temp elements city : 10.0
+Temp elements x : 41.17
+Temp elements y : 13.05
+index : 7
+73.681335
+city size is : 16
+city : 10.0
+  X :41.17  Y :13.05
+Temp elements city : 4.0
+Temp elements x : 36.26
+Temp elements y : 23.12
+index : 8
+84.8846
+city size is : 16
+city : 4.0
+  X :36.26  Y :23.12
+Temp elements city : 12.0
+Temp elements x : 38.47
+Temp elements y : 15.13
+index : 9
+93.17461
+city size is : 16
+city : 12.0
+  X :38.47  Y :15.13
+Temp elements city : 14.0
+Temp elements x : 37.51
+Temp elements y : 15.17
+index : 10
+94.135445
+city size is : 16
+city : 14.0
+  X :37.51  Y :15.17
+Temp elements city : 2.0
+Temp elements x : 39.57
+Temp elements y : 26.15
+index : 11
+105.307014
+city size is : 16
+city : 2.0
+  X :39.57  Y :26.15
+Temp elements city : 3.0
+Temp elements x : 40.56
+Temp elements y : 25.32
+index : 12
+106.598915
+city size is : 16
+city : 3.0
+  X :40.56  Y :25.32
+Temp elements city : 16.0
+Temp elements x : 39.36
+Temp elements y : 19.56
+index : 13
+112.48259
+city size is : 16
+city : 16.0
+  X :39.36  Y :19.56
+Temp elements city : 5.0
+Temp elements x : 33.48
+Temp elements y : 10.54
+index : 14
+123.24989
+poo
